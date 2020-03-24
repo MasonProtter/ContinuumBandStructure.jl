@@ -1,0 +1,11 @@
+name = "ContinuumBandStructure"
+uuid = "607b70bb-0574-45fc-85a1-7031bbe597e4"
+authors = ["MasonProtter <mason.protter@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Arpack = "7d9fca2a-8960-54d3-9f78-7d1dccf2cb97"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StructArrays = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
